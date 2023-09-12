@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent h1{
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+.parent h2{
+    margin: 5px;
+    font-size: 20px;    
+    font-family: 'Times New Roman', Times, serif;
+}
+.parent input{
+    background-color: white;
+    border: 1px solid rgb(189, 199, 216);
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 100;
+    outline-color: rgb(77, 144, 254);
+    margin: 10px;
+}
+.pen h3{
+    margin: 5px;
+    font-size: 20px;    
+    font-family: 'Times New Roman', Times, serif;
+}
+select{
+    width: 56px;
+    height: 30px;
+    padding: 5px;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    border: 1px solid rgb(189, 199, 216);
+    background-color: lightgray;
+}
+a{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-decoration: none;
+}
+.gender{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    font-weight: 400;
+}
+.pen p{
+    width: 315px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+ display: block;
+}
+.button{
+    width: 140px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
